@@ -1,2 +1,4 @@
-social_network_platform
+Open-Source Social Network Platform
 =======================
+
+Anyone Can Edit This File
